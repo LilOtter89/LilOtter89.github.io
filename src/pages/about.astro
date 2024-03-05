@@ -1,0 +1,113 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="A propos | Léandre GUILLY" description="About Jeanine White Lorem Ipsum">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A propos"
+				tagline="Voici une présentation où vous en apprendrez plus sur mon cursus."
+			>
+				<img
+					width="1000"
+					height="333"
+					src="/assets/cv.jpg"
+					alt="Jeanine White at work with a colleague"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Experience</h2>
+				<div class="content">
+					<p>
+						Dans le cadre de la nouvelle réforme du baccalauréat des choix ont dû être fait pour en sélectionner trois d'entre elle. Les mathématiques m'ont permis de me donner une vue d'ensemble des différents utilisation des mathématiques dans d'autres matières : statistique, probabilité, équations différentielles. Les S.I m'ont créé de l'autonomie sur des projets lycéen et de découvrir des connaissances proche du monde professionel. Enfin, la physique/chimie sont nécessaire pour comprendre l'ensemble des phénomènes scientifiques qui nous entoure. 
+						Mes deux premières années en Science et Génie des Matériaux a laisser place à l'assimilation de nouvelles compétences. Les projets étudiant ou SAE autonomie (Situation d'Aprentissage et d'Evaluation) imposent la rigueur, l'organisation, la curiosité et l'exactitude.
+					</p>
+					<p>
+						A l'age de mes 17ans, j'ai commencé à travailler dans la disctibution dans des supermarchés ce qui m'a permis de découvrir le monde du travail et le service client. 
+						Suite à ma première année de Bachelor Universitaire Technologique, j'ai décroché un post saisonnier entant que technicien qualité dans une entreprise de composite à matrice organique qui utilise des techniques d'industrialisation tels que le BMC (Bulk Moulding Compound) et SMC (Sheet Moulding Compound). 
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Cursus scolaire</h2>
+				<div class="content">
+					<p>Baccalauréat général spécialité science de l'ingénieur, mathématiques et physique/chimie</p>
+					<p>BUT Science et Génie des matériaux à Blois (41000), spécialité "Métier de la caractérisation et de l'expertise des matériaux et des produits"</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Qualités</h2>
+				<div class="content">
+					<p>Curieux</p>
+					<p>Travailleur acharné</p>
+					<p>Sérieux</p>
+					<p>Fiable</p>
+				</div>
+			</section>
+		</main>
+
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>

@@ -1,0 +1,72 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="solve" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Elaborer</h2>
+		<p>Je suis en capacité d'amorcer un projet à la suite de décisions mûrements réfléchies.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="pencil-line" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Eco-concevoir</h2>
+		<p>La conceptio/eco-conception de produit est une capacité que je maitrise en prenant en compte les impacts environnementaux et les demandes d'autrui.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="wrench" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Mettre en forme</h2>
+		<p>Suite au deux précédentes compétences, il met possible de fabriquer un produit concret.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="flask" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Caractériser</h2>
+		<p>Puis de la création du produit, je suis apte à dresser une liste de caractéristique résultant de celui-ci.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="detective" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Expertiser</h2>
+		<p>Pas compris.</p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>
