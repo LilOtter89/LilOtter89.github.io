@@ -32,11 +32,11 @@ L'objectif de notre implication dans ce sujet de créer un système automatisé 
 
 Le principe de notre système est de charger les vis dans une trémie, au fond de celle-ci, on trouvera une vis sans fin qui acheminera les vis vers un rail qui portera le dessous de la vis. La vis avancera car le rail sera disposé dans une pente négative qui sera glisser la vis jusqu'à un chargeur tamboure qui laissera tomber une vis par une vis devant un piston qui la disposera dans l'indexeur. 
 
-### Compétences mobilisés
+### Compétences mobilisées
 
 - Identifier les notions de performance du produit
 - Utiliser un logiciel de DAO 
 - Définir le design d'une pièce à partir d'un cahier des charges
 - Etre acteur dans un groupe de projet
-- Identifier les procédés utilisés sur un produit*
+- Identifier les procédés utilisés sur un produit
 - Identifier les contraites imposées par le procédé sur le produit
