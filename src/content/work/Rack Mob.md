@@ -4,20 +4,34 @@ publishDate: 2024-03-04 00:00:00
 img: /assets/rackmob.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Le projet “Rack Mob” est un bloqueur de roue adaptatif permettant le stationnement sécurisé. Ce dispositif peut s’adapter à un champ étendu de véhicule deux roues comme des vélos, mobylettes ou petites motos.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Elaborer
+  - Eco-concevoir
+  - Mettre en forme
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### Le Projet
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+> Sujet
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+La création d’un Rack à Mobylette peut cacher plus de paramètres que ce que l’on peut imaginer. Vous êtes passionnés de mobylette ou utilisateur quotidien de deux roues de même gabarit qu’une mobylette. Nous avons la solution pour vous ! Nous vous proposons la création d’un rack permettant le stationnement de votre motocyclette adaptable dans une large étendue d’endroit et d’utilisation.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Dans un premier temps, nous avons construit un diagramme de Gantt pour faciliter notre organisation et nous situer sur l’avancement du projet. Ensuite, on présentera les caractéristiques que le Rack à mob doit respecter. Puis, on clarifiera des gammes d’industrialisation pour prendre connaissance de chaque action sur chaque poste de travail. Dans un même temps, on chronomètrera la durée de chaque action. Et on emmétra plusieurs possibilités de répondre au cahier des charges pour l’optimisation du temps. Enfin, on proposera un schéma séquentiel final appuyé par des temps. Et nous délibèrerons le nombre de Rack mob faisable en une demi-journée. 
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+> Problématique
+
+Sachant que nous partons d'un projet déjà existant avec quelque défauts à réctifier. Notre objectif principal est de créer des gammes d'industrialisation pour chaque machines, enfin, nous créérons un schéma séquentiel pour optimiser le temps de production.
+
+### Synthèse des travaux
+
+Après organisation du planning du projet, nous avons redessiné les pièces 3D et les plans industriels correctement côtés. Puis, nous avons fait des recherches sur les machines et les matériaux optimaux. Sachant qu'il nous était imposés d'utiliser des tôles d'acier moux de 2mm d'épaisseur. De plus, nous avons choisi de réutilisé les machines cité par le précédent groupe ayant travaillé sur le projet. Enfin, nous avons pu fabriquer nos esquisses 3D en un pièce palpable grâce aux gammes précédements écritent. Simultanement, nous avons chronométré le temps de chaque tâche pour synthétiser le tout en un schéma séquentiel.
+
+### Compétences mobilisées
+
+- Choisir le procédé d'élaboration
+- Relier les propriétés du matériau à la mise en oeuvre et à la composition
+- Comprendre l'influence des dérives de l'application du protocole
+- Définir le design d'un pièce à partir d'un cahier des charges, d'un matériau et d'un procédé
+- Réaliser les mises en oeuvre en autonomie
+- Identifier les contraintes imposées par le procédé sur le produit

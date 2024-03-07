@@ -11,7 +11,7 @@ tags:
 
 ### Sujet 
 
-Le projet se déroule dans une salle de travaux pratiques avec des machines de caractérisation et deux échantillons polymères inconnues pris au hasard sur une pièce plastique. Pour procéder à leur caractérisations différentes machine sont disponible. On trouve un balancié pour mesurer la masse volumique du composé par le phénomène de poussé d'Archimède. La caractérisation thermique des éprouvettes se font par des machinees DSC (Differential Scanning Calorimetry) et ATD (Analyse ThermoGravimétrie)/ATG(Analyse Thermique Différentiel). Enfin, l'utilisation d'une machine IR (InfraRouge) permet d'afficher des pics caractéristiques qui permettent de définir la nature des deux échantillons.
+Ce projet ludique peut s'apparenter à une caractérisation concurrentielle d'une entreprise pour comparais deux gammes de produit similaire chez l'un et l'autre. Le projet se déroule dans une salle de travaux pratiques avec des machines de caractérisation et deux échantillons polymères inconnues pris au hasard sur une pièce plastique. Pour procéder à leur caractérisations différentes machine sont disponible. On trouve un balancié pour mesurer la masse volumique du composé par le phénomène de poussé d'Archimède. La caractérisation thermique des éprouvettes se font par des machinees DSC (Differential Scanning Calorimetry) et ATD (Analyse ThermoGravimétrie)/ATG(Analyse Thermique Différentiel). Enfin, l'utilisation d'une machine IR (InfraRouge) permet d'afficher des pics caractéristiques qui permettent de définir la nature des deux échantillons.
 
 ### synthèse des travaux 
 
