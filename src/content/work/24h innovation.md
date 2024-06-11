@@ -22,11 +22,11 @@ Plus de 50 ans d'expérience dans la production de petites et moyennes séries :
 
 > Sujet
 
-Dans les domaines du motorisme, l'aviation ou l'aérospatiale certaines vis ont besoin d'être percées de part en part pour y passer un fil. Cette manipulation a pour but d'empécher le desserrage des vis dû à la vibration des pièces. Pour effectuer des percées,l'entreprise utilise des indexeuses qui emprisonne le corps de la vis dans des mors. Puis, la vis est percée par une mèche qui effectue ces mouvements automatiquement (seul l'appuie d'un bouton est nécessaire au déclenchement). Cependant, la percée doit être en deux temps, il faudra percer deux trous face à face qui partent de la face de la tête jusqu'au centre. Revoir
+Dans les domaines du motorisme, l'aviation ou l'aérospatiale certaines vis ont besoin d'être percées de part en part pour y passer un fil. Cette manipulation a pour but d'empécher le desserrage des vis dû à la vibration des pièces. Pour effectuer des percées,l'entreprise utilise des indexeuses qui emprisonne le corps de la vis dans des mors. Puis, la vis est percée par une mèche qui effectue ces mouvements automatiquement (seul l'appuie d'un bouton est nécessaire au déclenchement). Cependant, la percée doit être en deux temps, il faudra percer deux trous face à face qui partent de la face de la tête jusqu'au centre. 
 
 > Problématique
 
-L'objectif de notre implication dans ce sujet est de créer un système automatisé pour l'indexage des vis et la rotation des mors afin permettre le perçage de différents angles autour de la pièce.
+Comment créer un système automatisé pour l'indexage des vis et la rotation des mors afin de permettre le perçage à différents angles autour de la pièce ?
 
 ### Synthèse des travaux 
 
