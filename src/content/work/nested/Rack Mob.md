@@ -25,7 +25,7 @@ Sachant que nous partons d'un projet déjà existant avec quelques défauts à r
 
 ### Synthèse des travaux
 
-Après organisation du planning du projet, nous avons redessiné les pièces 3D et les plans industriels correctement côtés. Puis, nous avons fait des recherches sur les machines et les matériaux optimaux. Sachant qu'il nous était imposé d'utiliser des tôles d'acier doux de 2mm d'épaisseur. De plus, nous avons choisi de réutiliser les machines citées par le précédent groupe ayant travaillé sur le projet. Enfin, nous avons pu fabriquer nos esquisses 3D en un pièce palpable grâce aux gammes précédements écrites. Simultanement, nous avons chronométré le temps de chaque tâche pour synthétiser le tout en un schéma séquentiel.
+Après organisation du planning du projet, nous avons redessiné les pièces 3D et les plans industriels correctement côtés. Puis, nous avons fait des recherches sur les machines et les matériaux optimaux. Sachant qu'il nous était imposé d'utiliser des tôles d'acier doux de 2mm d'épaisseur. De plus, nous avons choisi de réutiliser les machines citées par le précédent groupe ayant travaillé sur le projet. Enfin, nous avons pu fabriquer nos esquisses 3D en un pièce palpable grâce aux gammes précédements écrites . Simultanement, nous avons chronométré le temps de chaque tâche pour synthétiser le tout en un schéma séquentiel.
 
 ### Compétences mobilisées
 
